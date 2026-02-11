@@ -1,0 +1,13 @@
+# Build artifacts
+.build/
+dist/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Internal docs
+PRD.md
