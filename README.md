@@ -15,11 +15,6 @@ A minimal macOS app that floats a YouTube window above all other apps, designed 
 
 ---
 
-## Screenshot
-
-*Screenshot placeholder — add a screen capture showing the app floating over other windows*
-
----
 
 ## Requirements
 
