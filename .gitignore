@@ -4,6 +4,8 @@ dist/
 
 # macOS
 .DS_Store
+*.dmg
+*.app
 
 # Swift Package Manager
 .swiftpm/
