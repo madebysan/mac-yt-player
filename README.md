@@ -35,7 +35,7 @@ Designed for watching playlists while working — always-on-top, persistent logi
 
 ### Option 1: Install from DMG (Recommended)
 
-1. Download `YT-Mac-Player.dmg` from the [latest release](https://github.com/madebysan/yt-mac-player/releases/latest)
+1. Download `YT-Mac-Player.dmg` from the [latest release](https://github.com/madebysan/yt-player/releases/latest)
 2. Open the DMG file
 3. Drag "YT Mac Player" to the Applications folder
 4. Eject the DMG
@@ -46,8 +46,8 @@ Designed for watching playlists while working — always-on-top, persistent logi
 Clone the repository and build with Swift Package Manager:
 
 ```bash
-git clone https://github.com/madebysan/yt-mac-player.git
-cd yt-mac-player
+git clone https://github.com/madebysan/yt-player.git
+cd yt-player
 swift build -c release
 ```
 
@@ -220,7 +220,7 @@ The entire app is about 700 lines of Swift, including comments.
 ## Project Structure
 
 ```
-yt-mac-player/
+yt-player/
 ├── Package.swift                      # Swift Package Manager manifest
 ├── Info.plist                         # App metadata (bundle ID, version, icon)
 ├── Entitlements.entitlements          # App sandbox entitlements
@@ -317,7 +317,7 @@ If the window is positioned on a disconnected monitor, it should auto-recover on
 
 ## Known Limitations
 
-- **No auto-update** — To update, download a new DMG from the [releases page](https://github.com/madebysan/yt-mac-player/releases) and replace the app manually
+- **No auto-update** — To update, download a new DMG from the [releases page](https://github.com/madebysan/yt-player/releases) and replace the app manually
 - **YouTube DOM changes** — If YouTube redesigns their player, the fullscreen override JavaScript might break. The app would need an update to fix the CSS selectors.
 
 ---
