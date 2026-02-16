@@ -79,7 +79,7 @@ echo ""
 echo "=== Notarizing DMG ==="
 echo "  Submitting to Apple notary service (this may take a few minutes)..."
 xcrun notarytool submit "$DIST_DIR/$DMG_NAME.dmg" \
-    --keychain-profile "notarytool" \
+    --keychain-profile "notarytool-profile" \
     --wait
 echo "  Notarization complete"
 
