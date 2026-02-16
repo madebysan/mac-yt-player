@@ -1,6 +1,13 @@
-# YT Mac Player
+<p align="center">
+  <img src="assets/app-icon.png" width="128" height="128" alt="YT Mac Player app icon">
+</p>
 
-A minimal macOS app that floats a YouTube window above all other apps, designed for watching playlists while working. No ads, no API complexity — just your YouTube Premium account in an always-on-top window.
+<h1 align="center">YT Mac Player</h1>
+
+<p align="center">A minimal macOS app that floats a YouTube window above all other apps.<br>
+Designed for watching playlists while working — always-on-top, persistent login, custom fullscreen.</p>
+
+<p align="center">macOS 13+ · Apple Silicon & Intel</p>
 
 **Key Features:**
 
