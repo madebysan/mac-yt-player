@@ -8,6 +8,7 @@
 Designed for watching playlists while working — always-on-top, persistent login, custom fullscreen.</p>
 
 <p align="center">macOS 13+ · Apple Silicon & Intel</p>
+<p align="center"><a href="https://github.com/madebysan/yt-player/releases/latest"><strong>Download YT Mac Player</strong></a></p>
 
 **Key Features:**
 
