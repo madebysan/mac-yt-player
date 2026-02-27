@@ -323,6 +323,10 @@ If the window is positioned on a disconnected monitor, it should auto-recover on
 
 ---
 
+## Feedback
+
+Found a bug or have a feature idea? [Open an issue](https://github.com/madebysan/yt-player/issues).
+
 ## License
 
 MIT License — see LICENSE file for details.
